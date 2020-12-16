@@ -31,7 +31,7 @@ GEM
     i18n (0.6.0)
     multi_json (1.0.4)
     mysql (2.8.1)
-    rake (0.8.7)
+    rake (13.0.1)
     rake-compiler (0.7.9)
       rake
     rspec (2.8.0)
@@ -55,7 +55,7 @@ DEPENDENCIES
   faker
   mysql
   mysql2!
-  rake (= 0.8.7)
+  rake (= 13.0.1)
   rake-compiler (~> 0.7.7)
   rspec
   sequel
